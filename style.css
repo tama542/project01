@@ -1,0 +1,36 @@
+button:hover{
+    background-color:brown;
+    
+}
+
+p{
+    font-size: larger;
+}
+
+h1:hover{
+    
+    text-align: center;
+    background-color: brown;
+}
+
+body{
+    background-image: url("assets/back.jpeg");
+    background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: 100% 100%;
+}
+
+.navbar{
+    list-style: none;
+    background-color: brown;
+    padding:0px;
+    margin: 0px;
+}
+
+.navbar a{
+    color:antiquewhite;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
